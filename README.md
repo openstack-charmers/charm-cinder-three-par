@@ -1,3 +1,8 @@
+# This repository has moved 
+
+This repository has moved to https://opendev.org/openstack/charm-cinder-three-par.
+
+
 # charm-cinder-three-par
 
 # Overview
